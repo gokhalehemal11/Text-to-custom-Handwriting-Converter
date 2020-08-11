@@ -113,10 +113,6 @@ body.dark .dark-mode-toggle .sun {
   transition: color 0.5s ease;
 }
 
-#diagram-canvas {
-  cursor: url('../images/favicon-32x32-3.png'), crosshair;
-}
-
 .contributor-profile {
   display: inline-block;
   margin: 10px 5px;
